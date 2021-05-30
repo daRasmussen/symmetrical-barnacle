@@ -1,3 +1,3 @@
-import game from '/mods/game.js';
+import game from './mods/game.js';
 
 game();
